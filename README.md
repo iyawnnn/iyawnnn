@@ -40,6 +40,8 @@ Feel free to connect with me here:
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge)](https://getfedora.org/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge)](https://aws.amazon.com/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iyawnnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
