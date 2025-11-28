@@ -9,7 +9,7 @@ Feel free to connect with me here:
 [![Facebook Badge](https://img.shields.io/badge/-iansebastian.mac-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/iansebastian.mac)](https://www.facebook.com/iansebastian.mac)
 [![Gmail Badge](https://img.shields.io/badge/-iannmacabulos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iannmacabulos@gmail.com)](mailto:iannmacabulos@gmail.com)
 
-## ⚡ Technologies
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
