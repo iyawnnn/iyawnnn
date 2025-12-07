@@ -44,8 +44,7 @@ Feel free to connect with me here:
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge)](https://aws.amazon.com/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyawnnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iyawnnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=iyawnnn&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
