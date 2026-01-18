@@ -22,15 +22,33 @@ My passion lies in the **Next.js** ecosystem. I enjoy the challenge of connectin
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/KishonShrill">
+        <img 
+            alt="Ian's Github Stats" 
+            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iyawnnn&show_icons=true&count_private=true&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF" 
+            height="150px"/>
+    </a>
+    <a href="https://github.com/KishonShrill">
+        <img 
+            alt="Ian's Top Languages" 
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iyawnnn&layout=compact&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF" 
+            height="150px"/>
+    </a>
+</p>
 
 ---
 
@@ -39,4 +57,8 @@ My passion lies in the **Next.js** ecosystem. I enjoy the challenge of connectin
 - 🚀 Deploy a SaaS product that helps at least a few people.
 - 💼 Find a professional team to build cool things with during an internship.
 
+<div>
+  
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ian-sebastian-macabulos/) | [Portfolio](https://iansebastian.dev)
+
+</div>
