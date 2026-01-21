@@ -36,13 +36,13 @@ My passion lies in the **Next.js** ecosystem. I enjoy the challenge of connectin
 <br/>
 
 <p align="center">
-    <a href="https://github.com/KishonShrill">
+    <a href="https://github.com/iyawnnn">
         <img 
             alt="Ian's Github Stats" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iyawnnn&show_icons=true&count_private=true&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF" 
             height="150px"/>
     </a>
-    <a href="https://github.com/KishonShrill">
+    <a href="https://github.com/iyawnnn">
         <img 
             alt="Ian's Top Languages" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iyawnnn&layout=compact&bg_color=0D1117&border_color=FFFFFF&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF" 
